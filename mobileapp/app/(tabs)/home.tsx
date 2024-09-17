@@ -5,7 +5,6 @@ export default function Page() {
   return (
     <View>
         <Text>This is a test page</Text>
-        <Link href="/sleep">Sleep</Link>
     </View>
   
   )
